@@ -1,0 +1,12 @@
+# .gitignore
+# This file specifies which files and folders Git should ignore.
+# Common examples: data files, models, environments, API keys, VS Code settings.
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints
+.env
+*.env
+data/
+models/
+.vscode/
