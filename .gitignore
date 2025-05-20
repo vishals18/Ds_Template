@@ -8,5 +8,4 @@ __pycache__/
 .env
 *.env
 data/
-models/
 .vscode/
