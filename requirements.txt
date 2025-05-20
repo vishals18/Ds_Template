@@ -1,12 +1,5 @@
-# This is a requirements file for a Python project
-# It lists the packages needed for the project
-# and their versions if necessary.
-# The packages listed here will be installed in the virtual environment
-# using pip.
-# You can add or remove packages as needed.
-# To install the packages, run:
-# pip install -r requirements.txt
-# Example packages
+# This file contains all Python dependencies for the project.
+# Install them with: pip install -r requirements.txt
 pandas
 numpy
 matplotlib
